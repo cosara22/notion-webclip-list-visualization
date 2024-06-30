@@ -12,8 +12,8 @@ import plotly.express as px
 
 # 環境変数のロード
 load_dotenv()
-NOTION_API_KEY = os.environ.get("secret_hmJSZsOl8bCJNYgRkCIiZXKWImQvbQQXMch8cTVapfk")
-DATABASE_ID = os.environ.get("941b4def8efb47edb503f79336781eea")
+NOTION_API_KEY = os.environ.get("NOTION_API_KEY")
+DATABASE_ID = os.environ.get("DATABASE_ID")
 
 # Notion APIクライアントを初期化
 notion = Client(auth = NOTION_API_KEY)
