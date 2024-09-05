@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st # Anaconda環境の方は別途インストールが推奨。conda install -c conda-forge streamlit 
 import pandas as pd
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
