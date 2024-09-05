@@ -1,0 +1,8 @@
+streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1718936279380/work
+wordcloud @ file:///C:/b/abs_66ccn47hik/croot/wordcloud_1687301655958/work
+matplotlib @ file:///C:/b/abs_49b2acwxd4/croot/matplotlib-suite_1679593486357/work
+matplotlib-fontja==1.0.0
+Janome==0.5.0
+load-dotenv==0.1.0
+notion-client==2.1.0
+plotly @ file:///C:/ci_311/plotly_1676443558683/work
